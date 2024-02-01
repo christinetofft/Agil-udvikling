@@ -1,8 +1,17 @@
-name: Christine 
+firstName: Christine 
+lastName: Tofft
 age: 22
 zodiac: Saggitarius
-isBreathing: true 
+isStudying: true 
+studying: IT-architecture 
+occupation: Receptionist 
+city: Copenhagen
 hobbies:
   - Music
   - Reading
+  - Coding
   - Sleeping
+
+
+
+
