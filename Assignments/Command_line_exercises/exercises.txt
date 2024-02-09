@@ -1,0 +1,710 @@
+1: delete the last folder you created
+// rmdir <directoryname>
+
+2: create a directory relative and move into the directory
+// mkdir relative
+// cd relative
+
+3: create a file called speculate.txt
+// touch speculate.txt
+
+4: create two directories recommend and on and move into on
+// mkdir recommend
+// mkdir on
+// cd on
+
+5: output the sizes of the files in the directory
+// ls -l
+
+6: move two folders up
+// cd ..
+// cd ..
+
+7: open a file in the terminal and see the content
+// cat <filename>
+
+8: create a file called evaluate.txt. Put the text 'salvation bay correspondence shallow proportion' in it and copy it so there is also a cousin.txt with same content
+// touch evaluate.txt
+// echo salvation bay correspondence shallow proportion
+// cp evaluate.txt cousin.txt
+
+9: move two folders up
+// cd ..
+// cd ..
+
+10: create two directories abortion and pray and move into pray
+// mkdir abortion
+// mkdir pray
+// cd pray
+
+11: output the sizes of the files in the directory
+// ls -l
+
+12: output hidden files
+// ls -la
+
+13: create a file called experienced.txt
+// touch experienced.txt
+
+14: output the full path you are on
+// pwd
+
+15: move one level up
+// cd ..
+
+16: output hidden files
+// ls -la
+
+17: output the content of any file in the directory
+// cat <filename>
+
+18: create two directories needle and depression and move into depression
+// mkdir needle
+// mkdir depression
+// cd depression
+
+19: output the full path you are on
+// pwd
+
+20: output who the active user is
+// who
+
+21: create a file called interference.txt and rename it so that it's called bay.txt instead. Hint: This should be done in 2 commands
+// touch interference.txt
+// mv interference.txt bay.txt
+
+22: move two folders up
+// cd ..
+// cd ..
+
+23: create a directory shot and move into the directory
+// mkdir shot
+// cd shot
+
+24: delete the last file you created
+// rm <filename>
+
+25: create a file called stock.txt and immediately delete it
+// touch stock.txt
+// rm stock.txt
+
+26: create a file called interference.txt and rename it so that it's called interference.txt instead. Hint: This should be done in 2 commands
+// touch interference.txt
+// mv interference.txt interference.txt
+
+27: output the content of any file in the directory
+// cat <filename>
+
+28: delete the last file you created
+// rm <filename>
+
+29: write something in a file called correspondence.txt
+// echo hello my name is Christine
+
+30: create a file called regret.txt
+// touch regret.txt
+
+31: move one level up
+// cd ..
+
+32: create a file called advantage.txt
+// touch advantage.txt
+
+33: if there are any directories in the folder then move inside any one of them
+// ls .
+// cd <directoryname>
+
+34: delete the last file you created
+// rm <filename>
+
+35: move one level up
+// cd ..
+
+36: create a file called rider.txt
+// touch rider.txt
+
+37: output the full path you are on
+// pwd
+
+38: create a file called surprise.txt. Put the text 'plane support pioneer support plane' in it and copy it so there is also a pioneer.txt with same content
+// touch surprise.txt
+// echo plane support pioneer support plane
+// cp surprise.txt pioneer.txt
+
+39: create two directories ethics and ditch and move into ditch
+// mkdir ethics
+// mkdir ditch
+// cd ditch
+
+40: echo 'rider cousin excuse identity appreciate' into the file
+// echo rider cousin excuse identity appreciate
+
+41: output what's in the directory
+// ls .
+
+42: delete the last folder you created
+// rm <filename>
+
+43: output who the active user is
+// who
+
+44: create a file called ethics.txt
+// touch ethics.txt
+
+45: create a file called depression.txt
+// touch depression.txt
+
+46: move one level up
+// cd ..
+
+47: echo 'cater honor hill shot recession' into the file
+// echo cater honor hill shot recession
+
+48: output the full path you are on
+// pwd
+
+49: create a file called bay.txt and immediately delete it
+// touch bay.txt
+// rm bay.txt
+
+50: write something in a file called ditch.txt
+// cd ditch.txt
+// echo hello I am 22 years old
+
+51: create a file called speculate.txt
+// touch speculate.txt
+
+52: delete the last folder you created
+// rm <filename>
+
+53: create a directory rider and move into the directory
+// mkdir rider
+// cd rider
+
+54: output the content of any file in the directory
+// cat <filename>
+
+55: if there are any directories in the folder then move inside any one of them
+// ls .
+// cd <directoryname>
+
+56: create a file called rain.txt
+// touch rain.txt
+
+57: output what's in the directory
+// ls .
+
+58: if there are any directories in the folder then move inside any one of them
+?
+
+59: open a file in the terminal and see the content
+// cat <filename>
+
+60: output the full path you are on
+// pwd
+
+61: create a file called terminal.txt and rename it so that it's called terminal.txt instead. Hint: This should be done in 2 commands
+// touch terminal.txt
+// mv terminal.txt terminal.txt
+// filerne har samme navn, ved ikke om dette er en fejl.
+
+62: output the sizes of the files in the directory
+// ls -l
+
+63: output hidden files
+// ls -la
+
+64: create a file called beat.txt
+// touch beat.txt
+
+65: create a file called pen.txt. Put the text 'evaluate salvation proportion degree pioneer' in it and copy it so there is also a cater.txt with same content
+// touch pen.txt
+// echo evaluate salvation proportion degree pioneer
+// cp pen.txt cater.txt
+
+66: move one level up
+// cd ..
+
+67: output hidden files
+// ls -la
+
+68: move two folders up
+// cd ..
+// cd ..
+
+69: create a directory shot and move into the directory
+// mkdir shot
+// cd shot
+
+70: move two folders up
+// cd ..
+// cd ..
+
+71: move two folders up
+// cd ..
+// cd ..
+
+72: output the full path you are on
+// pwd
+
+73: output who the active user is
+// who
+
+74: output what's in the directory
+// ls
+
+75: output who the active user is
+// who
+
+76: output who the active user is
+// who
+
+77: output who the active user is
+// who
+
+78: create a file called nerve.txt. Put the text 'discover advantage nerve salvation pioneer' in it and copy it so there is also a shallow.txt with same content
+// touch nerve.txt
+// echo discover advantage nerve salvation pioneer
+// cp nerve.txt shallow.txt
+
+79: create a file called hill.txt. Put the text 'rider difficulty plane panel advantage' in it and copy it so there is also a ditch.txt with same content
+// touch hill.txt
+// echo rider difficulty plane panel advantage
+// cp hill.txt ditch.txt
+
+80: create a file called support.txt and rename it so that it's called cater.txt instead. Hint: This should be done in 2 commands
+// touch support.txt
+// mv support.txt cater.txt
+
+81: create a file called ethics.txt and immediately delete it
+// touch ethics.txt
+// rm ethics.txt
+
+82: write something in a file called shot.txt
+// cd shot.txt
+// echo my roommate is Ida
+
+83: if there are any directories in the folder then move inside any one of them
+// ls .
+// cd <directoryname>
+
+84: create a file called advantage.txt. Put the text 'degree difficulty terminal regret salvation' in it and copy it so there is also a shallow.txt with same content
+// touch advantage.txt
+// echo degree difficulty terminal regret salvation
+// cp advantage.txt shallow.txt
+
+85: create a file called advantage.txt
+// touch advantage.txt
+
+86: delete the last folder you created
+// rm <filename>
+
+87: create a directory discover and move into the directory
+// mkdir discover
+// cd discover
+
+88: delete the last folder you created
+// rm <filename>
+
+89: create a directory on and move into the directory
+// mkdir on
+// cd on
+
+90: create two directories stock and medal and move into medal
+// mkdir stock
+// mkdir medal
+// cd medal
+
+91: create a file called evaluate.txt and immediately delete it
+// touch evaluate.txt
+// rm evaluate.txt
+
+92: output the full path you are on
+// pwd
+
+93: output the full path you are on
+// pwd
+
+94: output the content of any file in the directory
+// cat <filename>
+
+95: create a file called hill.txt and rename it so that it's called responsibility.txt instead. Hint: This should be done in 2 commands
+// touch hill.txt
+// mv hill.txt responsibility.txt
+
+96: delete the last folder you created
+// rm <filename>
+
+97: delete the last file you created
+// rm <filename>
+
+98: delete the last folder you created
+// rm <filename>
+
+99: move one level up
+// cd ..
+
+100: output the sizes of the files in the directory
+// ls -l
+
+101: create a file called nerve.txt. Put the text 'degree shallow proportion difficulty relative' in it and copy it so there is also a sister.txt with same content
+// touch nerve.txt
+// echo degree shallow proportion difficulty relative
+// cp nerve.txt sister.txt
+
+102: output the sizes of the files in the directory
+// ls -l
+
+103: output hidden files
+// ls -la
+
+104: output hidden files
+// ls -la
+
+105: move two folders up
+// cd ..
+// cd ..
+
+106: echo 'medal depression experienced surprise ethics' into the file
+// echo medal depression experienced surprise ethics
+
+107: output hidden files
+// ls -la
+
+108: delete the last folder you created
+// rm <filename>
+
+109: output the sizes of the files in the directory
+// ls -l
+
+110: create two directories advice and nerve and move into nerve
+// mkdir advice
+// mkdir nerve
+// cd nerve
+
+111: create two directories hill and hill and move into hill
+// Samme navn til directories
+
+112: delete the last file you created
+// rm <filename>
+
+113: create a file called discover.txt and rename it so that it's called stock.txt instead. Hint: This should be done in 2 commands
+// touch discover.txt
+// mv discover.txt stock.txt
+
+114: create a file called medal.txt
+// touch medal.txt
+
+115: output hidden files
+// ls -la
+
+116: create a directory hill and move into the directory
+// mkdir hill
+// cd hill
+
+117: create a file called advantage.txt and rename it so that it's called pen.txt instead. Hint: This should be done in 2 commands
+// touch advantage.txt
+// mv advantage.txt pen.txt
+
+118: create a directory architecture and move into the directory
+// mkdir architecture
+// cd architecture
+
+119: output the content of any file in the directory
+// cat <filename>
+
+120: create a file called architecture.txt and immediately delete it
+// touch architecture.txt
+// rm architecture.txt
+
+121: write something in a file called surprise.txt
+// cd surprise.txt
+// echo what a surprise
+
+122: create two directories shallow and proportion and move into proportion
+// mkdir shallow
+// mkdir proportion
+// cd proportion
+
+123: output what's in the directory
+// ls .
+
+124: echo 'cater hill shallow salvation depression' into the file
+// echo cater hill shallow salvation depression
+
+125: move two folders up
+// cd ..
+// cd ..
+
+126: create two directories rain and cousin and move into cousin
+// mkdir rain
+// mkdir cousin
+// cd cousin
+
+127: create a file called pioneer.txt and rename it so that it's called on.txt instead. Hint: This should be done in 2 commands
+// touch pioneer.txt
+// mv pioneer.txt on.txt
+
+128: move two folders up
+// cd ..
+// cd ..
+
+129: output hidden files
+// ls -la
+
+130: delete the last file you created
+// rm <filename>
+
+131: output who the active user is
+// who
+
+132: echo 'pen experienced support advice salvation' into the file
+// echo pen experienced support advice salvation
+
+133: write something in a file called rider.txt
+// cd rider.txt
+// echo hello everyone
+
+134: create two directories medal and bay and move into bay
+// mkdir medal
+// mkdir bay
+// cd bay
+
+135: create a file called nerve.txt and immediately delete it
+// touch nerve.txt
+// rm nerve.txt
+
+136: output hidden files
+// ls -la
+
+137: move two folders up
+// cd ..
+// cd ..
+
+138: delete the last folder you created
+// rm <filename>
+
+139: output the sizes of the files in the directory
+// ls -l
+
+140: output hidden files
+// ls -la
+
+141: write something in a file called beat.txt
+// cd beat.txt
+// echo I love music
+
+142: create a file called responsibility.txt
+// touch responsibility.txt
+
+143: if there are any directories in the folder then move inside any one of them
+// ls .
+// cd <directoryname>
+
+144: delete the last file you created
+// rm <filename>
+
+145: delete the last folder you created
+// rm <filename>
+
+146: create two directories nerve and hill and move into hill
+// mkdir nerve
+// mkdir hill
+// cd hill
+
+147: output hidden files
+// ls -la
+
+148: output who the active user is
+// who
+
+149: create a directory cater and move into the directory
+// mkdir cater
+// cd cater
+
+150: output the full path you are on
+// pwd
+
+151: create a directory interference and move into the directory
+// mkdir interference
+// cd interference
+
+152: create a file called recommend.txt. Put the text 'surprise cousin sister excuse stock' in it and copy it so there is also a difficulty.txt with same content
+// touch recommend.txt
+// echo surprise cousin sister excuse stock
+// cp recommend.txt difficulty.txt
+
+153: output who the active user is
+// who
+
+154: create a file called discover.txt and rename it so that it's called needle.txt instead. Hint: This should be done in 2 commands
+// touch discover.txt
+// mv discover.txt needle.txt
+
+155: create a file called excuse.txt and immediately delete it
+// touch excuse.txt
+// rm excuse.txt
+
+156: create a directory plane and move into the directory
+// mkdir plane
+// cd plane
+
+157: create two directories terminal and plane and move into plane
+// mkdir terminal
+// mkdir plane
+// cd plane
+
+158: create a file called recommend.txt
+// touch recommend.txt
+
+159: output hidden files
+// ls -la
+
+160: create a directory beat and move into the directory
+// mkdir beat
+// cd beat
+
+161: output the full path you are on
+// pwd
+
+162: create two directories experienced and rider and move into rider
+// mkdir experienced
+// mkdir rider
+// cd rider
+
+163: echo 'beat advantage difficulty needle recommend' into the file
+// echo beat advantage difficulty needle recommend
+
+164: create a directory depression and move into the directory
+// mkdir depression
+// cd depression
+
+165: output what's in the directory
+// ls .
+
+166: echo 'difficulty excuse pen hill abortion' into the file
+// echo difficulty excuse pen hill abortion
+
+167: create a file called banish.txt. Put the text 'interference identity abortion banish advice' in it and copy it so there is also an evaluate.txt with same content
+// touch banish.txt
+// echo interference identity abortion banish advice
+// cp banish.txt evaluate.txt
+
+168: write something in a file called speculate.txt
+// cd speculate.txt
+// echo I am speculating
+
+169: echo 'discover salvation regret excuse stock' into the file
+// echo discover salvation regret excuse stock
+
+170: delete the last folder you created
+// rmdir <filename>
+
+171: create a file called depression.txt. Put the text 'beat pray cousin rain cater' in it and copy it so there is also a regret.txt with same content
+// touch depression.txt
+// echo beat pray cousin rain cater
+// cp depression.txt regret.txt
+
+172: output the full path you are on
+// pwd
+
+173: move one level up
+// cd ..
+
+174: create two directories speculate and shallow and move into shallow
+// mkdir speculate
+// mkdir shallow
+// cd shallow
+
+175: echo 'degree pray panel identity ethics' into the file
+// echo degree pray panel identity ethics
+
+176: output what's in the directory
+// ls .
+
+177: create two directories recession and plane and move into plane
+// mkdir recession
+// mkdir plane
+// cd plane
+
+178: move two folders up
+// cd ..
+// cd ..
+
+179: create a directory surprise and move into the directory
+// mkdir surprise
+// cd surprise
+
+180: create a file called appreciate.txt. Put the text 'pen rider cousin pen rider' in it and copy it so there is also a recession.txt with same content
+// touch appreciate.txt
+// echo pen rider cousin pen rider
+// mv appreciate.txt recession.txt
+
+181: create a directory bay and move into the directory
+// mkdir bay
+// cd bay
+
+182: output the full path you are on
+// pwd
+
+183: create a file called evaluate.txt and immediately delete it
+// touch evaluate.txt
+// rm evaluate.txt
+
+184: output hidden files
+// ls -la
+
+185: echo 'difficulty honor medal honor responsibility' into the file
+// echo difficulty honor medal honor responsibility
+
+186: output hidden files
+// ls -la
+
+187: echo 'correspondence plane proportion on cater' into the file
+// echo correspondence plane proportion on cater
+
+188: create a file called interference.txt and rename it so that it's called responsibility.txt instead. Hint: This should be done in 2 commands
+// touch interference.txt
+// mv interference.txt responsibility.txt
+
+189: echo 'panel panel needle recommend beat' into the file
+// echo panel panel needle recommend beat
+
+190: output what's in the directory
+// ls .
+
+191: create a file called shot.txt. Put the text 'cousin rider rain support salvation' in it and copy it so there is also a nerve.txt with same content
+// touch shot.txt
+// echo cousin rider rain support salvation
+// cp shot.txt nerve.txt
+
+192: echo 'degree shallow salvation bay shallow' into the file
+// echo degree shallow salvation bay shallow
+
+193: create a file called abortion.txt. Put the text 'medal needle depression advice speculate' in it and copy it so there is also an advantage.txt with same content
+// touch abortion.txt
+// echo medal needle depression advice speculate
+// cp abortion.txt advantage.txt
+
+194: create a file called plane.txt and immediately delete it
+// touch plane.txt
+// rm plane.txt
+
+195: output who the active user is
+// who
+
+196: delete the last file you created
+// rm <filename>
+
+197: output the sizes of the files in the directory
+// ls -l
+
+198: create a file called regret.txt and immediately delete it
+// touch regret.txt
+// rm regret.txt
+
+199: output what's in the directory
+// ls .
+
+200: output what's in the directory
+// ls .
